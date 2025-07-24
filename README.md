@@ -156,7 +156,3 @@ Contributions are welcome to improve ATMA. Please follow these steps:
 5. Submit a pull request describing your updates.
 
 ---
-
-### License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
