@@ -85,8 +85,6 @@ ATMA addresses common timetabling challenges by providing:
 
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 3. **Configure environment**
